@@ -1,2 +1,69 @@
 # Portfolio
-My tester's portfolio (still in the making!)
+
+### About me
+Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my industry started and I decided to become a Software Tester. Although I had been interested in other paths in IT in the past, I quickly gave up on them and felt that it was not something for me. Testing is a completely different thing! We quickly caught a common language. I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. In this portfolio, I would like to share my knowledge of testing and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
+
+### My experience
+I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. :blush:
+
+### Tools
+* [Jira](https://www.atlassian.com/pl/software/jira) - for bug tracking
+* [Slack](https://slack.com/) - for communication within the team
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
+* [GitHub](https://github.com/) - for preparing my projects
+* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
+* [Xampp](https://www.apachefriends.org/pl/index.html) - for practicing SQL
+
+### Tech skills
+* [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+* [HTTP](https://jchost.pl/blog/http-odpowiedzi-bledy/)
+* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/)
+* Software testing
+* Creating test cases
+* Reporting bugs
+
+### Soft skills
+* precision
+* communication
+* assertiveness
+* patience
+
+### Courses
+* [DareIT Challenge](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
+* [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+* [Szkolenie SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+* [Podstawy obsługi DevTools](https://szkoleniedlaqa.pl/konsola/)
+
+### Books
+* Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
+* Piotr Wicherski, [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+
+### Blogs
+* [Testerzy](https://testerzy.pl/)
+* [Testuj](https://testuj.pl/blog/)
+* [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
+* [Testowanie oprogramowania](https://testowanie-oprogramowania.pl/blog/)
+
+### Podcasts
+* [Pierwsze kroki w IT](https://open.spotify.com/show/5G4Ykc9IwoCj4uirzGmxUh)
+
+### IT groups I follow on Facebook
+* [DareIT Community](https://www.facebook.com/groups/dareit.io/)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+* [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno/)
+* [Programuj, Dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)
+
+### My test case examples
+* [Scouts.Futbolkolektyw based on User Stories](https://docs.google.com/document/d/1xZzAiv-qPUc-sOcceb53-VZilA6fl0uwffPWm7YxOIE/edit?usp=sharing)
+* [Scouts.Futbolkolektyw based on my invention](https://docs.google.com/document/d/1FPu1Hi3YssMdmY61RP9hfx1K_zwJDi-lV-BI50-fq6I/edit?usp=sharing)
+* [PickEatUp app based on my own experience](https://docs.google.com/document/d/1ggp4R4D1-amPfFjD827dhJ1Jy-3eLA9R2AbQxq7ZL14/edit?usp=sharing)
+
+### My bug report examples
+* [Scouts.Futbolkolektyw](https://docs.google.com/spreadsheets/d/1NW57GwwUnjMHU6PSPcICeUSy3ALyG7JaiKGPpA1wJE4/edit?usp=sharing)
+* [Scouts.Futbolkolektyw explorative session](https://docs.google.com/spreadsheets/d/18SOzG8UrxqBPdEnDUFCoeiyL4_LCXVI-8x2n0KvR5UQ/edit#gid=0)
+
+### My test report examples
+* [Scouts.Futbolkolektyw](https://docs.google.com/document/d/1pV_uc5rgfgzhnrVOhAIunLe-NPP7Kt1eJiM27s-mhgY/edit?usp=sharing)
+* [OLX mobile app](https://docs.google.com/document/d/1fv_nl57rsRwwreASlPdg1hk3m2VJ0tnw68ZXmIE2W7Q/edit?usp=sharing)
+
