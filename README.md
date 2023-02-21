@@ -21,6 +21,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * Software testing
 * Creating test cases
 * Reporting bugs
+* Creating bug reports
 
 ### Soft skills
 * precision
