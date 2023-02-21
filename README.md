@@ -67,3 +67,5 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [Scouts.Futbolkolektyw](https://docs.google.com/document/d/1pV_uc5rgfgzhnrVOhAIunLe-NPP7Kt1eJiM27s-mhgY/edit?usp=sharing)
 * [OLX mobile app](https://docs.google.com/document/d/1fv_nl57rsRwwreASlPdg1hk3m2VJ0tnw68ZXmIE2W7Q/edit?usp=sharing)
 
+### [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
+
