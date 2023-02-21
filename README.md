@@ -29,7 +29,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * patience
 
 ### Courses
-* [DareIT Challenge](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
+* [DareIT Challenge (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [Szkolenie SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 * [Podstawy obsługi DevTools](https://szkoleniedlaqa.pl/konsola/)
