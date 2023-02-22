@@ -1,54 +1,58 @@
 # Portfolio
 
-### About me
+### About me :wave:
 Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my industry started and I decided to become a Software Tester. Although I had been interested in other paths in IT in the past, I quickly gave up on them and felt that it was not something for me. Testing is a completely different thing! We quickly caught a common language. I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. In this portfolio, I would like to share my knowledge of testing and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
 
-### My experience
+[My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
+
+### My experience :office:
 I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. :blush:
 
-### Tools
+### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira) - for bug tracking
 * [Slack](https://slack.com/) - for communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [GitHub](https://github.com/) - for preparing my projects
+* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - for storing data
+* [GitHub](https://github.com/) - for preparing and showing my portfolios
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
 * [Xampp](https://www.apachefriends.org/pl/index.html) - for practicing SQL
 
-### Tech skills
+### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 * [HTTP](https://jchost.pl/blog/http-odpowiedzi-bledy/)
 * [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/)
+* [Agile](https://www.atlassian.com/pl/agile)
 * Software testing
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
 
-### Soft skills
+### Soft skills :file_folder:
 * precision
 * communication
 * assertiveness
 * patience
 
-### Courses
+### Courses :notebook:
 * [DareIT Challenge (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [Szkolenie SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 * [Podstawy obsługi DevTools](https://szkoleniedlaqa.pl/konsola/)
 
-### Books
+### Books :books:
 * Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
 * Piotr Wicherski, [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 
-### Blogs
+### Blogs :newspaper:
 * [Testerzy](https://testerzy.pl/)
 * [Testuj](https://testuj.pl/blog/)
 * [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
 * [Testowanie oprogramowania](https://testowanie-oprogramowania.pl/blog/)
 
-### Podcasts
+### Podcasts :microphone:
 * [Pierwsze kroki w IT](https://open.spotify.com/show/5G4Ykc9IwoCj4uirzGmxUh)
 
-### IT groups I follow on Facebook
+### IT groups I follow on Facebook :link:
 * [DareIT Community](https://www.facebook.com/groups/dareit.io/)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
@@ -68,5 +72,4 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [Scouts.Futbolkolektyw](https://docs.google.com/document/d/1pV_uc5rgfgzhnrVOhAIunLe-NPP7Kt1eJiM27s-mhgY/edit?usp=sharing)
 * [OLX mobile app](https://docs.google.com/document/d/1fv_nl57rsRwwreASlPdg1hk3m2VJ0tnw68ZXmIE2W7Q/edit?usp=sharing)
 
-### [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
