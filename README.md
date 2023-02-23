@@ -59,17 +59,17 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno/)
 * [Programuj, Dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)
 
-### My test case examples
-* [Scouts.Futbolkolektyw based on User Stories](https://docs.google.com/document/d/1xZzAiv-qPUc-sOcceb53-VZilA6fl0uwffPWm7YxOIE/edit?usp=sharing)
-* [Scouts.Futbolkolektyw based on my invention](https://docs.google.com/document/d/1FPu1Hi3YssMdmY61RP9hfx1K_zwJDi-lV-BI50-fq6I/edit?usp=sharing)
-* [PickEatUp app based on my own experience](https://docs.google.com/document/d/1ggp4R4D1-amPfFjD827dhJ1Jy-3eLA9R2AbQxq7ZL14/edit?usp=sharing)
+### My projects :microscope:
+**1. DareIT Challenge**
+* [Scouts.Futbolkolektyw test cases based on User Stories](https://docs.google.com/document/d/1xZzAiv-qPUc-sOcceb53-VZilA6fl0uwffPWm7YxOIE/edit?usp=sharing)
+* [Scouts.Futbolkolektyw test cases based on my invention](https://docs.google.com/document/d/1FPu1Hi3YssMdmY61RP9hfx1K_zwJDi-lV-BI50-fq6I/edit?usp=sharing)
+* [Scouts.Futbolkolektyw bug report](https://docs.google.com/spreadsheets/d/1NW57GwwUnjMHU6PSPcICeUSy3ALyG7JaiKGPpA1wJE4/edit?usp=sharing)
+* [Scouts.Futbolkolektyw explorative session bug report](https://docs.google.com/spreadsheets/d/18SOzG8UrxqBPdEnDUFCoeiyL4_LCXVI-8x2n0KvR5UQ/edit#gid=0)
+* [Scouts.Futbolkolektyw test report](https://docs.google.com/document/d/1pV_uc5rgfgzhnrVOhAIunLe-NPP7Kt1eJiM27s-mhgY/edit?usp=sharing)
+* [PickEatUp app test cases based on my own experience](https://docs.google.com/document/d/1ggp4R4D1-amPfFjD827dhJ1Jy-3eLA9R2AbQxq7ZL14/edit?usp=sharing)
+* [OLX mobile app test report](https://docs.google.com/document/d/1fv_nl57rsRwwreASlPdg1hk3m2VJ0tnw68ZXmIE2W7Q/edit?usp=sharing)
 
-### My bug report examples
-* [Scouts.Futbolkolektyw](https://docs.google.com/spreadsheets/d/1NW57GwwUnjMHU6PSPcICeUSy3ALyG7JaiKGPpA1wJE4/edit?usp=sharing)
-* [Scouts.Futbolkolektyw explorative session](https://docs.google.com/spreadsheets/d/18SOzG8UrxqBPdEnDUFCoeiyL4_LCXVI-8x2n0KvR5UQ/edit#gid=0)
+**2. My own initiative**
 
-### My test report examples
-* [Scouts.Futbolkolektyw](https://docs.google.com/document/d/1pV_uc5rgfgzhnrVOhAIunLe-NPP7Kt1eJiM27s-mhgY/edit?usp=sharing)
-* [OLX mobile app](https://docs.google.com/document/d/1fv_nl57rsRwwreASlPdg1hk3m2VJ0tnw68ZXmIE2W7Q/edit?usp=sharing)
-
+* 
 
