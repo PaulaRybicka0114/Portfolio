@@ -71,5 +71,4 @@ I do not have any commercial testing experience at the moment. However, in my cu
 
 **2. My own initiative**
 
-* 
-
+* [LinkedIN bug report](https://docs.google.com/spreadsheets/d/1LKgGF3Kazg637a0oggHmv3_tq3ykNbppRYKYbNhl-Zc/edit?usp=sharing)
