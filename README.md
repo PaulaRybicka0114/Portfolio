@@ -20,7 +20,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 * [HTTP](https://jchost.pl/blog/http-odpowiedzi-bledy/)
-* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/)
+* [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
 * [Agile](https://www.atlassian.com/pl/agile)
 * Software testing
 * Creating test cases
