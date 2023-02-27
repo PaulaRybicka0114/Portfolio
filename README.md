@@ -15,7 +15,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - for storing data
 * [GitHub](https://github.com/) - for preparing and showing my portfolios
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html) - for practicing SQL
+* [Xampp](https://www.apachefriends.org/pl/index.html) and [mySQL](https://www.mysql.com/) - for practicing SQL
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
