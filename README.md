@@ -9,7 +9,8 @@ Hi, my name is Paulina. A few months ago my adventure of changing not only my jo
 I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. :blush:
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira) - for bug tracking
+* [Jira](https://www.atlassian.com/pl/software/jira) - for project management
+* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - for bug tracking
 * [Slack](https://slack.com/) - for communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - for storing data
@@ -21,7 +22,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
 * [HTTP](https://jchost.pl/blog/http-odpowiedzi-bledy/)
 * [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
-* [Agile](https://www.atlassian.com/pl/agile)
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 * Software testing
 * Creating test cases
 * Reporting bugs
@@ -34,10 +35,13 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * patience
 
 ### Courses :notebook:
-* [DareIT Challenge (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
-* [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
-* [Szkolenie SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* [Podstawy obsługi DevTools](https://szkoleniedlaqa.pl/konsola/)
+* [DareIT Challenge - become a manual tester (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
+* [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+* [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+* [Basics of operating DevTools](https://szkoleniedlaqa.pl/konsola/)
+
+### Certificates :trophy:
+* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
 
 ### Books :books:
 * Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
