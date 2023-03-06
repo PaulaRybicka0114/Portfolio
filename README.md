@@ -42,6 +42,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 
 ### Certificates :trophy:
 * [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
+* [Basics of operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 
 ### Books :books:
 * Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
