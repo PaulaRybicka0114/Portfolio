@@ -9,7 +9,7 @@ Hi, my name is Paulina. A few months ago my adventure of changing not only my jo
 I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. :blush:
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira) - for project management
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - for project management
 * [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - for bug tracking
 * [Slack](https://slack.com/) - for communication within the team
 * [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
@@ -38,11 +38,11 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [DareIT Challenge - become a manual tester (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
 * [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* [Basics of operating DevTools](https://szkoleniedlaqa.pl/konsola/)
+* [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
 
 ### Certificates :trophy:
 * [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
-* [Basics of operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
+* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 
 ### Books :books:
 * Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
