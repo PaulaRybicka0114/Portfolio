@@ -1,12 +1,12 @@
 # Portfolio
 
 ### About me :wave:
-Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my industry started and I decided to become a Software Tester. Although I had been interested in other paths in IT in the past, I quickly gave up on them and felt that it was not something for me. Testing is a completely different thing! We quickly caught a common language. I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. In this portfolio, I would like to share my knowledge of testing and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
+Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my industry started and I decided to become a Software Tester.  I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. In this portfolio, I would like to share my knowledge of testing and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
 ### My experience :office:
-I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. :blush:
+I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. :blush:
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - for project management
