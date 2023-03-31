@@ -20,6 +20,19 @@ I do not have any commercial testing experience at the moment. However, in my cu
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
+
+| syntax and order of execution | comparison operators | logical operators | scalar functions                 | aggregation functions | others
+|:-----------------------------:|:--------------------:|:-----------------:|:--------------------------------:|:---------------------:|:-------:|
+| SELECT (*, LIKE, TOP)         |          =           | AND               | GETDATE                          | COUNT ()              | JOIN    |
+| FROM                          |         !=           |   BETWEEN         | UPPER                            | SUM ()                | AS      |
+| WHERE                         |         <>           |    IN             | LOWER                            | MIN ()                |  UNION  |
+| GROUP BY                      |          >           |    LIKE           | DATEDIFF (HOUR, MONTH, YEAR etc.)|                       |         |
+| ORDER BY (ASC, DESC)          |          <           |    NOT            |                                  |                       |         |
+|  UPDATE (SET)                 |         >=           |    OR             |                                  |                       |         |
+|    ALTER TABLE (ADD)          |         <=           |    IS NULL        |                                  |                       |         |
+|  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
+|                               |         !>           |                   |                                  |                       |         |
+
 * [HTTP](https://jchost.pl/blog/http-odpowiedzi-bledy/)
 * [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
@@ -33,6 +46,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * communication
 * assertiveness
 * patience
+* empathy
 
 ### Courses :notebook:
 * [DareIT Challenge - become a manual tester (portfolio)](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
