@@ -55,11 +55,13 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 * [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
+* [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
 
 ### Certificates :trophy:
 * [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
 * [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 * [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
+* [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
 
 ### Books :books:
 * Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
