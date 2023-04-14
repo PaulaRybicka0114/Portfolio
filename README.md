@@ -1,12 +1,12 @@
 # Portfolio
 
 ### About me :wave:
-Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my industry started and I decided to become a QA Tester.  I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. In this portfolio, I would like to share my knowledge of testing and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
+Hi, my name is Paulina. A few months ago my adventure of changing not only my job but also my branch started and I decided to become a QA Tester. I enjoy learning and practising in this field. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. So it satisfies me that in the future I can become someone who cares about this. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
 ### My experience :office:
-I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the tester path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. :blush:
+I do not have any commercial testing experience at the moment. However, in my current job, one of my responsibilities is to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this job, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. :blush:
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - for project management
@@ -56,6 +56,7 @@ I do not have any commercial testing experience at the moment. However, in my cu
 * [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 * [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
 * [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
+* [QA Training](https://szkoleniedlaqa.pl/szkolenie/)
 
 ### Certificates :trophy:
 * [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
