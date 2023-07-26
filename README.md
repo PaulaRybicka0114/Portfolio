@@ -21,6 +21,8 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
 * [Postman](https://www.postman.com/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [Selenium](https://www.selenium.dev/)
+* [Robot framework](https://robotframework.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
 
 ### Tech skills :computer:
