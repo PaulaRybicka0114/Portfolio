@@ -21,7 +21,7 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
 * [Postman](https://www.postman.com/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
-* [VisualStudioCode](https://code.visualstudio.com/) - practicing HTML and CSS
+* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
@@ -45,9 +45,8 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
-* [Python](https://www.python.org/) - for test automation
-* HTML
-* CSS
+* Basic [Python](https://www.python.org/) - for test automation
+* Basic HTML and CSS
 
 ### Soft skills :file_folder:
 * precision
@@ -57,20 +56,22 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * empathy
 
 ### Courses :notebook:
-* DareIT Challenge - automated tests + Python [portfolio](https://github.com/PaulaRybicka0114/automation_challenge_portfolio)
-* DareIT Challenge - become a manual tester [portfolio](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
+* [QA Training](https://szkoleniedlaqa.pl/szkolenie/) + [PORTFOLIO](https://github.com/PaulaRybicka0114/QA_Course)
+* DareIT Challenge - automated tests + Python [PORTFOLIO](https://github.com/PaulaRybicka0114/automation_challenge_portfolio)
+* DareIT Challenge - become a manual tester [PORTFOLIO](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
+* [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
+* CherryIT COLT 1/2023 - Postman & Rest API - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT-1-2023)
+* CherryIT COLT 2/2023 - Git - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT_2-2023.git)
 * [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
 * [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
-* [QA Training](https://szkoleniedlaqa.pl/szkolenie/) + [portfolio](https://github.com/PaulaRybicka0114/QA_Course)
-* [CherryIT COLT 1/2023 - Postman & Rest API](https://github.com/PaulaRybicka0114/COLT-1-2023)
 
 ### Certificates :trophy:
-* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
-* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
 * [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
+* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
+* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
 * [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
+* [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
 
 ### Samples :microscope:
 **1. Allegro Sandbox**
