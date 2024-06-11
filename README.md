@@ -6,7 +6,7 @@ Hi, my name is Paulina. Since the beginning of 2023 I have been studying and pra
 [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
 ### My experience :office:
-Being a junior software tester in Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
