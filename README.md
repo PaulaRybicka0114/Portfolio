@@ -1,12 +1,12 @@
 # Portfolio
 
 ### About me :wave:
-Hi, my name is Paulina. Since the beginning of 2023 I have been studying and practicing to become a QA. I am  happy to have finally found an area in which I can successfully develop myself. I hope that in the future I can become someone who professionally takes care of the quality of products and services. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field. I have also recently started learning test automation in Python, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi, my name is Paulina. Since the beginning of 2023 I have been studying and practicing to become a QA. I am  happy to have finally found an area in which I can successfully develop myself. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
 
 [My Linkedin profile](https://www.linkedin.com/in/paulina-rybicka/)
 
 ### My experience :office:
-I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+Being a junior software tester in Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
@@ -24,6 +24,10 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * [Selenium](https://www.selenium.dev/)
 * [Robot framework](https://robotframework.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
+* [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
+* [Kibana](https://www.elastic.co/kibana)
+* [TeamCity](https://www.jetbrains.com/teamcity/)
+* [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 ### Tech skills :computer:
 * [SQL](https://support.microsoft.com/pl-pl/office/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
@@ -49,6 +53,11 @@ I do not have any commercial experience at the moment. However, in my last job, 
 * Creating bug reports
 * Basic [Python](https://www.python.org/) - for test automation
 * Basic HTML and CSS
+* Creating documentation
+* experience with testing SaaS web applications
+* performing smoke tests
+* testing UAT
+* scrum workflow
 
 ### Soft skills :file_folder:
 * precision
